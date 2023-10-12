@@ -11,6 +11,8 @@
 
 [Telegram](https://t.me/alonsoj636MW)
 
+[Buy me a Coffee!](https://ko-fi.com/alonsoj636)
+
 -----------------------------------------
 
 **Downloads Count**
