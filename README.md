@@ -1,3 +1,6 @@
+![image](https://github.com/alonsoj636/alonsoj_lineage_releases/assets/102626923/6eef4176-755a-4830-be9d-239ca92426bc)
+
+
 # LineageOS 20 for Redmi Note 10 (sunny/mojito)
 
 ### Maintained by
