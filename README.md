@@ -19,15 +19,24 @@
 
 **GApps**
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/alonsoj_lineage_releases/20-20231217/lineage-20.0-20231217-AJCL-GApps-sunny.zip?style=plastic&logo=lineageos&logoColor=white&label=Alonso's%20Cave&color=white
+)](https://github.com/alonsoj636/alonsoj_lineage_releases/releases)
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/alonsoj_lineage_releases/20-20231118/lineage-20.0-20231118-AJCL-GApps-sunny.zip?style=plastic&logo=lineageos&logoColor=white&label=Alonso's%20Cave&color=white
 )](https://github.com/alonsoj636/alonsoj_lineage_releases/releases)
 
 **MicroG**
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/alonsoj_lineage_releases/20-20231217/lineage-20.0-20231217-AJCL-MicroG-sunny.zip?style=plastic&logo=lineageos&logoColor=white&label=Alonso's%20Cave&color=white
+)](https://github.com/alonsoj636/alonsoj_lineage_releases/releases)
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/alonsoj_lineage_releases/20-20231118/lineage-20.0-20231118-AJCL-MicroG-sunny.zip?style=plastic&logo=lineageos&logoColor=white&label=Alonso's%20Cave&color=white
 )](https://github.com/alonsoj636/alonsoj_lineage_releases/releases)
 
 **Vanilla**
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/alonsoj_lineage_releases/20-20231217/lineage-20.0-20231217-AJCL-Vanilla-sunny.zip?style=plastic&logo=lineageos&logoColor=white&label=Alonso's%20Cave&color=white
+)](https://github.com/alonsoj636/alonsoj_lineage_releases/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/alonsoj_lineage_releases/20-20231118/lineage-20.0-20231118-AJCL-Vanilla-sunny.zip?style=plastic&logo=lineageos&logoColor=white&label=Alonso's%20Cave&color=white
 )](https://github.com/alonsoj636/alonsoj_lineage_releases/releases)
