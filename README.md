@@ -19,6 +19,9 @@
 
 **GApps**
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/alonsoj_lineage_releases/21-20231220/lineage-21.0-20231220-AJCL-sunny.zip?style=plastic&logo=lineageos&logoColor=white&label=Alonso's%20Cave&color=white
+)](https://github.com/alonsoj636/alonsoj_lineage_releases/releases)
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/alonsoj636/alonsoj_lineage_releases/20-20231217/lineage-20.0-20231217-AJCL-GApps-sunny.zip?style=plastic&logo=lineageos&logoColor=white&label=Alonso's%20Cave&color=white
 )](https://github.com/alonsoj636/alonsoj_lineage_releases/releases)
 
